@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://hewaste.hitweb114.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
